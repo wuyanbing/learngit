@@ -4,4 +4,4 @@ today i change the file twice at 20:31
 the day which i add the new line at 22:18
 and i will create a new file in the current directory
 another lesson:git track changes not the file¡£two changs¡£
-fuccccccccccccccck
+switch to a new branch 'feature1'
