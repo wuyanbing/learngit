@@ -33,5 +33,6 @@ git merge devleop
 git push origin master
 git branch --merged
 git branch -d develop
+git push origin --delete develop
 
 
