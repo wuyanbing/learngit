@@ -29,3 +29,9 @@ git push -u origin develop
 git checkout master 
 git pull origin master
 
+git merge devleop
+git push origin master
+git branch --merged
+git branch -d develop
+
+
