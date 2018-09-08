@@ -1,0 +1,17 @@
+git --version
+git config --global user.name "wuyanbing"
+git config --global user.email "wuyb0925@hotmail.com"
+git config --list
+git add --help
+    for exist project:
+git init
+git status
+    add a .gitignore file (cmd->ren a.gitignore .gitignore)
+git add <file>
+git add -A
+git reset <file>
+git reset
+git commit -m "Initial Commit"
+git log 
+    for remote project:
+git clone https://github.com/wuyanbing/learngit.git
